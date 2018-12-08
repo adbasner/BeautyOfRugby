@@ -1,0 +1,29 @@
+body {
+    background-color: #efefef;
+    font-family: "Nunito", sans-serif;
+    color: #010101;
+}
+
+#main-navbar {
+  font-weight: 1000;
+}
+
+#main-navbar .navbar-brand {
+  color: #efefef;
+  font-size: 1.6rem;
+}
+
+#main-navbar .nav-link {
+  color: #efefef;
+  font-size: 1.2rem;
+}
+
+.btn {
+  background-color: #25721F;
+  border-color: #25721F;
+  outline: none;
+}
+
+.scrolled {
+  background-color: #25721F;
+}
