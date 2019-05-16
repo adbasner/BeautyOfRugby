@@ -22,6 +22,12 @@ body {
   background-color: #25721F;
   border-color: #25721F;
   outline: none;
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: #14610E;
+  color: #fff;
 }
 
 .scrolled {
